@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge-1",
+  "version": "1.0.0",
+  "description": "Simple key value store client",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/boriscosic/code-challenge-1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/boriscosic/code-challenge-1/issues"
+  },
+  "homepage": "https://gitlab.com/boriscosic/code-challenge-1#README"
+}
