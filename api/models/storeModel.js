@@ -3,10 +3,10 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var StoreSchema = new Schema({
-    key: {
+    id: {
         type: String,
     },
-    value: {
+    name: {
         type: String,
     },
 });

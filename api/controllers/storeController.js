@@ -1,6 +1,6 @@
 'use strict';
 var mongoose = require('mongoose'),
-    Store = mongoose.model('Stores');
+    Store = mongoose.model('Store');
 
 exports.list_all_stores = function (req, res) {
     Store.find({}, function (err, store) {
